@@ -1,16 +1,32 @@
-# Changelog
-
-All notable changes to this project will be documented in this file.
-
-## [1.3.1] - 2023-09-07
-
-### Build
-
-- :wrench: renamed back to iko affiliate plugin to free up Wink Travel
-
 # affiliate-wordpress-plugin changelog
 
 Changelog of affiliate-wordpress-plugin.
+
+## v1.3.1 (2023-09-07)
+
+### Other changes
+
+**Merge branch 'release/v1.3.1'**
+
+
+[bc1f2](https://github.com/wink-travel/affiliate-wordpress-plugin/commit/bc1f2b8e39e2487) Bjorn Harvold *2023-09-07 04:28:30*
+
+**:twisted_rightwards_arrows: doc: merged CHANGELOG.md from master into develop branch**
+
+
+[6c9ba](https://github.com/wink-travel/affiliate-wordpress-plugin/commit/6c9ba33295803df) Bjorn Harvold *2023-09-07 04:20:22*
+
+**Merge tag 'v1.3.0' into develop**
+
+* v1.3.0 v1.3.0 
+
+[b698c](https://github.com/wink-travel/affiliate-wordpress-plugin/commit/b698ccc05cfd4e0) Bjorn Harvold *2023-09-07 04:20:05*
+
+**:memo: doc: Updated CHANGELOG.md...**
+
+
+[9350c](https://github.com/wink-travel/affiliate-wordpress-plugin/commit/9350ce8b70f1dc7) Bjorn Harvold *2023-09-07 04:20:05*
+
 
 ## v1.3.0 (2023-09-07)
 
